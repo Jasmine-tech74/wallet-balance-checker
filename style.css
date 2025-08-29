@@ -1,0 +1,24 @@
+body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: #0d1117;
+      color: #fff;
+    }
+    button {
+      padding: 10px 20px;
+      background: #00d395;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      margin: 10px;
+      color: #fff;
+    }
+    .info {
+      margin-top: 15px;
+      font-size: 18px;
+    }
